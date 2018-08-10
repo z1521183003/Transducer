@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Transducer</string>
+    <string name="btn_flashlight_text">flashlight</string>
 </resources>
